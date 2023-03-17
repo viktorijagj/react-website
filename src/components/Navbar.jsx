@@ -2,7 +2,6 @@ import React, {useState} from 'react'
 import { Link } from "react-router-dom";
 import { FaBars, FaSearch, FaShoppingBag, FaHome , FaRegAddressCard } from "react-icons/fa";
 import { GrClose } from "react-icons/gr";
-import { MdProductionQuantityLimits } from "react-icons/md"
 
 function Navbar() {
     // State for menu show
